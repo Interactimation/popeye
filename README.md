@@ -1,6 +1,6 @@
 # **Popeye PLEX**
 
-[HOME: PopeyePLEX](https://github.com/Interactimation/popeye/wiki/HOME:-PopeyePLEX)
+[**HOME: PopeyePLEX**](https://github.com/Interactimation/popeye/wiki/HOME:-PopeyePLEX)
 
 ----
 
